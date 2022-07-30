@@ -3,5 +3,5 @@ server:
 
 spring:
   application:
-    name: test
+    name: test_0001
   
