@@ -1,7 +1,3 @@
-server:
-  port: 9050
-
-spring:
-  application:
-    name: test
+slogan:
+  好好学习，天天向上
   
